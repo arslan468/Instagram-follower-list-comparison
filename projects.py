@@ -18,8 +18,8 @@ def takipcileri_cek(adres):
 
         return set()
     
-eski = 'eski_takipciler.html'
-yeni = 'yeni_takipciler.html'
+eski = 'eski_takipciler_anonim.html'
+yeni = 'yeni_takipciler_anonim.html'
 
 eski_takipciler = takipcileri_cek(eski)
 yeni_takipciler = takipcileri_cek(yeni)

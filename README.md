@@ -15,10 +15,10 @@ Fakat aklınızda soru işareti kalmasın: **Programın algoritması ve çalış
 
 ## 🛠️ Nasıl Çalıştırılır?
 
-# 1. Kendi sistemine projeyi klonla:
+### 1. Kendi sistemine projeyi klonla:
    git clone [https://github.com/arslan468/Instagram-follower-list-comparison.git]
 
-# 2. Gerekli kütüphane
+### 2. Gerekli kütüphane
   pip install beautifulsoup4 lxml
 
-# 3. Kendi takipçi listelerinizi ekleyip dosya yolunu düzenledikten sonra çalıştığını görüceksiniz
+### 3. Kendi takipçi listelerinizi ekleyip dosya yolunu düzenledikten sonra çalıştığını görüceksiniz
